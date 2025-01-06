@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring various aspects of data, including Marketing Analytics, HR Analytics, Health Analytics, Machine Learning and Business Analytics.
 - 🌱 I’m currently enhancing my skills in Tableau, but I already excel in Power BI, Python, Microsoft Excel, and SQL.
 - 💞️ I’m looking to collaborate on data-driven projects. 
-- 📫 You can reach out to me on samuelwale201072@gmail.com
+- 📫 You can reach out to me on samuelwale201072@gmail.com and +447900910071
 - ⚡ My background in Banking and Marketing Analytics has shaped my perspective - numbers are not just numbers to me; they hold stories and value waiting to be discovered. 
 
 <!---
