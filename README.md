@@ -3,7 +3,7 @@
 - 🌱 I am currently enhancing my skills in Tableau, but I already excel in Power BI, Python, Microsoft Excel, and SQL.
 - 💞️ I am looking to collaborate on data-driven projects. 
 - 📫 You can reach out to me on samuelwale201072@gmail.com or +447900910071
-- ⚡ My background in Banking and Marketing Analytics has shaped my perspective - numbers are not just numbers to me; they hold stories and value waiting to be discovered. 
+- ⚡ My background in Banking and Marketing Data Analytics have shaped my perspective - numbers are not just numbers to me; they hold stories and value waiting to be discovered. 
 
 <!---
 Omobowale-Alao/Omobowale-Alao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
